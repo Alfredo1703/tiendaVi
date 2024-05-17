@@ -1,0 +1,14 @@
+main > .container{
+    padding: 30px 0;
+}
+
+/*.card shadow-sm{
+    height: 200%;
+    overflow: hidden;
+}
+.img-prod{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+
